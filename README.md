@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Rithika Govindarajan<br>I'm a final year student at SRM University<br>🔭 I’m currently working on Problem solving and Software testing<br>🌱 I’m currently learning Responsive web design<br>💬 Ask me about SEO<br>⚡ Fun fact - I like reading and writing
+# 💫Hi, I'm Rithika Govindarajan
+I'm a final year student at SRM University<br>🔭 I’m currently working on Problem solving and Software testing<br>🌱 I’m currently learning Responsive web design<br>💬 Ask me about SEO<br>⚡ Fun fact - I like reading and writing
 
 
 ## 🌐 Socials:
@@ -15,13 +15,7 @@ Hi, I'm Rithika Govindarajan<br>I'm a final year student at SRM University<br>�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rithikagovindarajan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=rithika_02)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 [![](https://visitcount.itsvg.in/api?id=rithikagovindarajan&icon=7&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
