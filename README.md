@@ -1,5 +1,5 @@
 # 💫Hi, I'm Rithika Govindarajan
-I'm a final year student at SRM University<br>🔭 I’m currently working on Problem solving and Software testing<br>🌱 I’m currently learning Responsive web design<br>💬 Ask me about SEO<br>⚡ Fun fact - I like reading and writing
+I'm a final year student at SRM University<br>🔭 I’m currently working on Problem solving and Software testing<br>🌱 I’m currently learning Responsive web design<br>💬 Ask me about SEO<br>⚡ Fun fact - I like reading and writing 
 
 
 ## 🌐 Socials:
